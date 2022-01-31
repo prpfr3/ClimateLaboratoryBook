@@ -1,5 +1,7 @@
 # The Climate Laboratory
 
+PF Note:- My virtual environment for this is climlab-courseware
+
 [![DOI](https://zenodo.org/badge/231609808.svg)](https://zenodo.org/badge/latestdoi/231609808)
 ![Deploy Book](https://github.com/brian-rose/ClimateLaboratoryBook/actions/workflows/deploy.yaml/badge.svg)
 ![Link Checker](https://github.com/brian-rose/ClimateLaboratoryBook/actions/workflows/link-checker.yaml/badge.svg)
